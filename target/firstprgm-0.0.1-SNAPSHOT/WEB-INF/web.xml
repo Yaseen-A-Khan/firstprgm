@@ -1,0 +1,6 @@
+<plugin>
+<artifactId>org.apache.maven.plugin</artifactId>
+<configuration>
+<webXml>/firstprgm/src/main/webapp/WEB-INF/index.html</webXml>
+</configuration>
+</plugin>
